@@ -2,9 +2,7 @@
 {
     'name': "xsp_test",
 
-    'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+    'summary': "我的第一个模块",
 
     'description': """
         Long description of module's purpose
