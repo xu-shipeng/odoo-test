@@ -1,0 +1,4 @@
+[submodule "xu-shipeng/technical-training"]
+	path = xu-shipeng/technical-training
+	url = git@github.com:xu-shipeng/technical-training.git
+	branch = 12.0-03-views-solutions
